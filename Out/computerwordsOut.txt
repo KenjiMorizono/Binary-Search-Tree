@@ -1,0 +1,67 @@
+Kenji Morizono, CS 2050, Fall 2017, Binary Search Tree
+In Order:
+word: web, count: 1 
+word: well, count: 6 
+word: what, count: 3 
+word: when, count: 1 
+word: whether, count: 1 
+word: which, count: 8 
+word: while, count: 1 
+word: who, count: 2 
+word: wide, count: 2 
+word: wires, count: 1 
+word: with, count: 27 
+word: without, count: 1 
+word: word, count: 3 
+word: words, count: 1 
+word: work, count: 3 
+word: world, count: 2 
+word: yet, count: 1 
+word: you, count: 3 
+word: young, count: 2 
+word: zero, count: 1 
+
+Pre-Order:
+word: well, count: 6 
+word: way, count: 1 
+word: want, count: 1 
+word: web, count: 1 
+word: when, count: 1 
+word: what, count: 3 
+word: whether, count: 1 
+word: who, count: 2 
+word: while, count: 1 
+word: with, count: 27 
+word: wide, count: 2 
+word: wires, count: 1 
+word: without, count: 1 
+word: words, count: 1 
+word: work, count: 3 
+word: world, count: 2 
+word: yet, count: 1 
+word: young, count: 2 
+word: you, count: 3 
+word: zero, count: 1 
+
+Post-Order:
+word: to, count: 64 
+word: means, count: 7 
+word: while, count: 1 
+word: wires, count: 1 
+word: wide, count: 2 
+word: without, count: 1 
+word: with, count: 27 
+word: who, count: 2 
+word: which, count: 8 
+word: you, count: 3 
+word: zero, count: 1 
+word: young, count: 2 
+word: yet, count: 1 
+word: world, count: 2 
+word: work, count: 3 
+word: words, count: 1 
+word: word, count: 3 
+word: latin, count: 1 
+word: is, count: 61 
+word: computer, count: 110 
+

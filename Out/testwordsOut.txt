@@ -1,0 +1,61 @@
+Kenji Morizono, CS 2050, Fall 2017, Binary Search Tree
+In Order:
+word: a, count: 1 
+word: all, count: 2 
+word: are, count: 1 
+word: basic, count: 1 
+word: clever, count: 1 
+word: file, count: 2 
+word: fun, count: 1 
+word: happy, count: 1 
+word: hi, count: 1 
+word: just, count: 1 
+word: little, count: 2 
+word: ok, count: 4 
+word: program, count: 2 
+word: test, count: 4 
+word: this, count: 1 
+word: trees, count: 3 
+word: will, count: 1 
+word: your, count: 2 
+
+Pre-Order:
+word: hi, count: 1 
+word: all, count: 2 
+word: a, count: 1 
+word: file, count: 2 
+word: basic, count: 1 
+word: are, count: 1 
+word: clever, count: 1 
+word: fun, count: 1 
+word: happy, count: 1 
+word: trees, count: 3 
+word: test, count: 4 
+word: little, count: 2 
+word: just, count: 1 
+word: program, count: 2 
+word: ok, count: 4 
+word: this, count: 1 
+word: will, count: 1 
+word: your, count: 2 
+
+Post-Order:
+word: a, count: 1 
+word: are, count: 1 
+word: clever, count: 1 
+word: basic, count: 1 
+word: happy, count: 1 
+word: fun, count: 1 
+word: file, count: 2 
+word: all, count: 2 
+word: just, count: 1 
+word: ok, count: 4 
+word: program, count: 2 
+word: little, count: 2 
+word: this, count: 1 
+word: test, count: 4 
+word: your, count: 2 
+word: will, count: 1 
+word: trees, count: 3 
+word: hi, count: 1 
+

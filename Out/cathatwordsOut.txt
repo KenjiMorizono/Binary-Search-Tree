@@ -1,0 +1,66 @@
+Kenji Morizono, CS 2050, Fall 2017, Binary Search Tree
+In Order:
+word: way, count: 4 
+word: we, count: 26 
+word: well, count: 1 
+word: went, count: 4 
+word: were, count: 1 
+word: wet, count: 7 
+word: what, count: 14 
+word: when, count: 3 
+word: white, count: 1 
+word: who, count: 1 
+word: why, count: 3 
+word: will, count: 21 
+word: wish, count: 4 
+word: with, count: 24 
+word: wood, count: 1 
+word: would, count: 3 
+word: yes, count: 1 
+word: yet, count: 1 
+word: you, count: 34 
+word: your, count: 8 
+
+Pre-Order:
+word: wet, count: 7 
+word: we, count: 26 
+word: way, count: 4 
+word: went, count: 4 
+word: well, count: 1 
+word: were, count: 1 
+word: with, count: 24 
+word: wish, count: 4 
+word: why, count: 3 
+word: what, count: 14 
+word: when, count: 3 
+word: white, count: 1 
+word: who, count: 1 
+word: will, count: 21 
+word: you, count: 34 
+word: wood, count: 1 
+word: would, count: 3 
+word: yet, count: 1 
+word: yes, count: 1 
+word: your, count: 8 
+
+Post-Order:
+word: were, count: 1 
+word: went, count: 4 
+word: we, count: 26 
+word: who, count: 1 
+word: white, count: 1 
+word: when, count: 3 
+word: what, count: 14 
+word: will, count: 21 
+word: why, count: 3 
+word: wish, count: 4 
+word: yes, count: 1 
+word: yet, count: 1 
+word: would, count: 3 
+word: wood, count: 1 
+word: your, count: 8 
+word: you, count: 34 
+word: with, count: 24 
+word: wet, count: 7 
+word: was, count: 6 
+word: the, count: 97 

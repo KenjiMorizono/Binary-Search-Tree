@@ -1,0 +1,334 @@
+
+computer is derived from a latin word computare which means to
+calculate to count to sum up or to think together so more precisely
+the word computer means a device that performs computation
+
+computer
+a person who computes
+
+computer
+a person who makes calculations especially with a calculating machine
+
+computer 
+an electronic device for storing and processing data typically in binary form
+according to instructions given to it in a variable program
+
+a computer is an electronic machine that can store and deal with large
+amounts of information
+
+computer
+a device usually electronic that processes data according to a set of
+instructions the digital computer stores data in discrete units and performs
+arithmetical and logical operations at very high speed the analog
+computer has no memory and is slower than the digital computer but has a
+continuous rather than a discrete input the hybrid computer combines some of
+the advantages of digital and analog computers
+
+computer definition
+an electronic device that stores and manipulates information unlike a
+calculator it is able to store a program and retrieve information from its
+memory most computers today are digital which means they perform operations
+with quantities represented electronically as digits
+
+a computer is a device that can be instructed to carry out arbitrary 
+sequences of arithmetic or logical operations automatically the ability of
+computers to follow generalized sets of operations called programs enables
+them to perform an extremely wide range of tasks
+
+computer
+general purpose machine commonly consisting of digital circuitry that accepts
+inputs stores manipulates and generates outputs data as numbers text graphics
+voice video files or electrical signals in accordance with instructions called
+a program
+
+definition of computer
+one that computes specifically a programmable usually electronic device that
+can store retrieve and process data using a computer to design
+
+computer a device used for computing specifically an electronic machine which
+by means of stored instructions and information performs rapid often complex
+calculations or compiles correlates and selects data now especially digital
+computer
+
+computer
+an electronic device which is capable of receiving information data in a
+particular form and of performing a sequence of operations in accordance with
+a predetermined but variable set of procedural instructions program to
+produce a result in the form of information or signals
+
+a computer is an electronic device that manipulates information or data it
+has the ability to store retrieve and process data
+
+computer an electronic machine that is used for storing organizing and
+finding words numbers and pictures for doing calculations and for
+controlling other machines
+
+a computer is an electronic machine that can solve different problems process
+data store retrieve data and perform calculations faster and efficiently than
+humans
+
+a computer is a device that accepts information in the form of digitalized
+data and manipulates it for some result based on a program or sequence of
+instructions on how the data is to be processed complex computers also
+include the means for storing data including the program which is also a form
+of data for some necessary duration a program may be invariable and built
+into the computer and called logic circuitry as it is on microprocessors
+or different programs may be provided to the computer loaded into its storage
+and then started by an administrator or user todays computers have both kinds
+of programming
+
+a computer is a programmable machine the two principal characteristics of a
+computer are it responds to a specific set of instructions in a well defined
+manner and it can execute a prerecorded list of instructions a program
+
+modern computers defined
+modern computers are electronic and digital the actual machinery wires
+transistors and circuits is called hardware the instructions and data are
+called software
+
+technically a computer is a programmable machine this means it can execute a
+programmed list of instructions and respond to new instructions that it is
+given today however the term is most often used to refer to the desktop and
+laptop computers that most people use when referring to a desktop model the
+term computer technically only refers to the computer itself not the monitor
+keyboard and mouse still it is acceptable to refer to everything together
+as the computer some of the major parts of a personal computer or pc include
+the motherboard cpu memory or ram hard drive and video card while personal
+computers are by far the most common type of computers today there are
+several other types of computers
+
+a computer is programmed device with a set of instructions to perform
+specific tasks and generate results at a very high speed
+
+computer science is the study of the theory experimentation and engineering
+that form the basis for the design and use of computers it is the scientific
+and practical approach to computation and its applications and the systematic
+study of the feasibility structure expression and mechanization of the
+methodical procedures or algorithms that underlie the acquisition
+representation processing storage communication of and access to information
+an alternate, more succinct definition of computer science is the study of
+automating algorithmic processes that scale computer scientist specializes
+in the theory of computation and the design of computational systems
+
+computer science the science that deals with the theory and methods of
+processing information in digital computers the design of computer hardware
+and software and the applications of computers
+
+computer science is a discipline that involves the understanding and design
+of computers and computational processes in its most general form it is
+concerned with the understanding of information transfer and transformation
+particular interest is placed on making processes efficient and endowing them
+with some form of intelligence the discipline ranges from theoretical studies
+of algorithms to practical problems of implementation in terms of
+computational hardware and software
+
+as the foundation for all computing computer science is defined as the study
+of computers and algorithmic processes including their principles their
+hardware and software designs their implementation and their impact on
+society
+
+definition of computer science 
+a branch of science that deals with the theory of computation or
+the design of computers the study of the principles and use of computers
+
+computer science
+the study of how computers work and what they can be used for
+
+although its name contains the word science computer science is usually
+considered to be a branch of engineering this is in sharp contrast to most
+of the physical sciences which separate the understanding and advancement of
+the science from its practical applications science is a technique for
+learning about the natural world by applying the principles of the scientific
+method which includes making empirical observations proposing hypotheses
+to explain those observations and then testing those hypotheses engineering
+is the application of science
+
+computers are virtually indispensable to the field of computer science yet
+as edsger dijkstra a pioneering computer scientist so aptly put it computer
+science is no more about computers than astronomy is about telescopes
+
+computer science computer definition
+the field of computer hardware and software it includes systems analysis
+design application and system software design programming and datacenter
+operations for young students the emphasis is typically on learning a
+programming language or running a computer with little attention to the
+study of information and its uses in order to better deal with business
+information requirements students must also be introduced to data 
+administration and database concepts
+
+what does computer science mean computer science is the study of both
+computer hardware and software design it encompasses both the study of
+theoretical algorithms and the practical problems involved in
+implementing them through computer hardware and software the study of
+computer science has many branches including artificial intelligence
+software engineering programming and computer graphics the need for 
+computer science as a discipline has grown as computers become more
+integrated into our day to day lives and technology continues to advance
+
+computer science
+the study of computers and the major phenomena that surround them
+
+computer science
+the systematic study of algorithmic processes that describe and 
+transform information their theory analysis design efficiency 
+implementation and application
+
+computer science
+computer science cs is the study of computers and algorithmic processes
+including their principles their hardware and software designs their
+applications and their impact on society
+
+computer science is the study of computers and computing concepts it
+includes both hardware and software as well as networking and the internet
+the hardware aspect of computer science overlaps with electrical engineering
+it covers the basic design of computers and the way they work a fundamental 
+understanding of how a computer computes or performs calculations provides
+the foundation for comprehending more advanced concepts for example
+understanding how a computer operates in binary allows you to understand
+how computers add subtract and perform other operations learning about logic
+gates enables you to make sense of processor architecture the software side
+of computer science covers programming concepts as well as specific
+programming languages programming concepts include functions algorithms and
+source code design computer science also covers compilers operating systems
+and software applications user focused aspects of computer science include
+computer graphics and user interface design since nearly all computers are 
+now connected to the internet the computer science umbrella covers internet
+technologies as well this includes internet protocols telecommunications and
+networking concepts it also involves practical applications such as web
+design and network administration
+
+computer science
+the field encompasses theory mathematical activities such as design and
+analysis of algorithms performance studies of systems and their components
+and estimation of reliability and availability of systems by probabilistic
+techniques because computer systems are often too large and complicated for
+failure or success of a design to be predicted without testing 
+experimentation is built into the development cycle
+
+computer science is the study of the storage transformation and transfer
+of information the field encompasses both the theoretical study of algorithms
+including their design efficiency and application and the practical problems
+involved in implementing them in terms of computer software and hardware
+
+computer science is a discipline that spans theory and practice it requires
+thinking both in abstract terms and in concrete terms the practical side of
+computing can be seen everywhere getting computers to do what you want them
+to do requires intensive hands on experience but computer science can be
+seen on a higher level as a science of problem solving computer scientists 
+must be adept at modeling and analyzing problems they must also be able to
+design solutions and verify that they are correct problem solving requires
+precision creativity and careful reasoning computer science also has strong
+connections to other disciplines many problems in science engineering health
+care business and other areas can be solved effectively with computers but
+finding a solution requires both computer science expertise and knowledge of
+the particular application domain thus computer scientists often become
+proficient in other subjects
+
+the definition of computer science is a branch of engineering science that
+studies the technology and the principles of computers
+
+computer science
+the study of computing programming and computation in correspondence with
+computer systems this field of study utilizes theories on how computers 
+work to design test and analyze concepts computer science usually has a
+stronger mathematical foundation than a scientific one and on some
+occasions may not focus directly on computers and their systems
+
+computer science
+the branch of engineering science that studies with the aid of computers 
+computable processes and structures
+
+computer science is the systematic study of the feasibility structure
+expression and mechanization of the methodical processes or algorithms that
+underlie the acquisition representation processing storage communication of
+and access to information whether such information is encoded in bits and
+bytes in a computer memory or transcribed in genes and protein structures in
+a human cell
+
+computer science is practiced by mathematicians scientists and engineers
+mathematics the origins of computer science provides reason and logic science
+provides the methodology for learning and refinement engineering provides the
+techniques for building hardware and software finally and most importantly
+computer scientists are computer scientists because it is fun not to mention
+lucrative career opportunities
+
+computer science
+the study of computers and their architecture languages and applications in
+all aspects as well as the mathematical structures that relate to computers
+and computation
+
+computer science the profession
+computer science is a discipline that involves the understanding and design
+of computers and computational processes in its most general form it is
+concerned with the understanding of information transfer and transformation
+particular interest is placed on making processes efficient and endowing them
+with some form of intelligence the discipline ranges from theoretical studies
+of algorithms to practical problems of implementation in terms of
+computational hardware and software a central focus is on processes for
+handling and manipulating information thus the discipline spans both advancing
+the fundamental understanding of algorithms and information processes in
+general as well as the practical design of efficient reliable software and
+hardware to meet given specifications computer science is a young discipline
+that is evolving rapidly from its beginnings as such it includes theoretical
+studies experimental methods and engineering design all in one discipline
+this differs radically from most physical sciences that separate the
+understanding and advancement of the science from the applications of the
+science in fields of engineering design and implementation in computer science
+there is an inherent intermingling of the theoretical concepts of
+computability and algorithmic efficiency with the modern practical
+advancements in electronics that continue to stimulate advances in the
+discipline it is this close interaction of the theoretical and design aspects
+of the field that binds them together into a single discipline
+
+computer science is the study of principles applications and technologies of
+computing and computers it involves the study of data and data structures and
+the algorithms to process these structures of principles of computer
+architecture both hardware and software of problem solving and design
+methodologies of computer related topics such as numerical analysis
+operations research and artificial intelligence and of language design
+structure and translation technique computer science provides a foundation of
+knowledge for students with career objectives in a wide range of computing and
+computer related professions
+
+computer science is concerned with information in much the same sense that
+physics is concerned with energy it is devoted to the representation storage
+manipulation and presentation of information
+
+computer science is concerned with the study of symbol manipulating machines
+with communication between man and machine and with the application of these
+machines
+
+computer science is a branch of science and technology that encompasses all
+aspects of a computer system including computer software hardware and
+networking computers are man-made tools computers are programmed to
+automatically perform a set of actions and produce the desired outcome or
+results computers can store large amounts of data and perform complex
+mathematical calculations computer science is the study of the hardware
+software networking and all the processes that fall under the umbrella of
+giving life to a machine to enable it to perform complicated tasks and actions
+
+computer science
+the science that deals with the theory and methods of processing information
+in digital computers the design of computer hardware and software and the
+applications of computers the study of the design and operation of computers
+and their application to science business and the arts the branch of
+engineering science that studies with the aid of computers computable
+processes and structures
+
+quantum computers use the power of atoms to perform memory and processing
+tasks
+
+quantum computing studies computation systems quantum computers that make 
+direct use of quantum mechanical phenomena such as superposition and
+entanglement to perform operations on data
+
+to speed computation quantum computers tap directly into an unimaginably vast
+fabric of reality the strange and counterintuitive world of quantum mechanics
+
+quantum computers are based on qubits which operate according to two key
+principles of quantum physics superposition and entanglement superposition
+means that each qubit can represent both a one and a zero at the same time
+
+a quantum computer is a device for computation that makes direct use of
+quantum mechanical phenomena such as superposition and entanglement to
+perform operations on data
